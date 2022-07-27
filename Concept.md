@@ -5,3 +5,7 @@ Typescript is 2 things:
 implicit vs explicit:
 implicit , often but not described clearly or directly, and often using implication or assumption.
 explicit , describes something that is very clear and without vagueness or ambiguity.
+
+
+tsconfig.json , for analyzing your code
+The important feature is that now you can run tsc to tell TypeScript to compile all the files in that folder.
