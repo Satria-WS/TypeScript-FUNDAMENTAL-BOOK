@@ -14,4 +14,6 @@ let bestSong: string = Math.random() > 0.5 ? "Chain of Fools" : "Respect";
 let firstName2 = "Whitney";
 //firstName2.length();
 
-let car;
+let lifespan: number | "ongoing" | "unknown"; // Type definition
+lifespan = 89; // Ok
+lifespan = "ongoing"; // Ok
