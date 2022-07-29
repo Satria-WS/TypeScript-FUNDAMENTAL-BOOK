@@ -21,4 +21,8 @@ $ ts-node script.ts
 //## typscript playground
 https://www.typescriptlang.org/play
 
+
+//## create template typescript
+npx create-react-app my-app --template typescript
+
 refrence: https://www.npmjs.com/package/ts-node
